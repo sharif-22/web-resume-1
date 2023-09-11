@@ -24,11 +24,11 @@ This Resume using HTML for structure and CSS for styling, you can create a profe
 ## Demo
 
 <!-- [Include links to a live demo, screenshots, or GIFs that showcase your project in action.] -->
-<a taget="_blank" href="">
+<a taget="_blank" href="sharif-22.github.io/web-resume-1/">
     <img src="./assets/images/mobile.png" alt="live preview of khaja sharif resume"/>
 </a>
 
-click above image to view the [live preview]()
+click above image to view the [live preview](https://sharif-22.github.io/web-resume-1/)
 
 ## Internship
 
